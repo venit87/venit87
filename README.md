@@ -39,6 +39,6 @@
 
 <p align="center">
   💼 <a href="https://www.linkedin.com/in/venit87/" target="_blank">
-    linkedin.com/in/vinicius-constantino-ab29a5337
+    https://www.linkedin.com/in/venit87/
   </a>
 </p>
