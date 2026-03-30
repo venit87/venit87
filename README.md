@@ -1,4 +1,5 @@
-![TheAmazingSpiderMan2AndrewGarfieldGIF](https://github.com/user-attachments/assets/7321fd6c-ff8b-4d55-8782-b89fae825666)
+![TheAmazingSpidermanGIF](https://github.com/user-attachments/assets/d16683da-2f2b-4fcc-beb5-c2d7f8337ad1)
+
 
 
 
