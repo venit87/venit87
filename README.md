@@ -2,7 +2,7 @@
   <img 
     src="https://github.com/user-attachments/assets/69874800-dec9-47a1-82e2-8cf6588beee0" 
     alt="Sekiro Ending GIF"
-    width="700"
+    width="900"
   />
 </p>
 
